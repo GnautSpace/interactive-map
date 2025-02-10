@@ -19,7 +19,7 @@ An interactive map application built with **React Leaflet** , featuring a dragga
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/GnautSpace/interactive-map.git
-cd your-repo-name
+cd interactive-map
 ```
 
 ### 2️⃣ Install Dependencies  
